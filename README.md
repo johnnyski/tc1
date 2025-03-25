@@ -1,1 +1,1 @@
-# tc1
+Further information.  The data comes from "Test Case 1".  Here is the graph assuming that u->v is a parent->child edge.  But, several have to be swapped for this problem.  The first image shows the graph before swapping, and it shows multiple roots and most of the graph is not reachable starting at node 1 (each node shows the node number and the value).  The second image shows the graph you need to build for the HR test to be successful.
